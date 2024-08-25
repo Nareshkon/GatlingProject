@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.test.ChromeTestSimulation",
+  "simulationId": "chrometestsimulation",
+  "start": 1724150391345,
+  "description": "Chrome Test",
+  "scenarios": ["User Journey on Abercrombie Website"],
+  "assertions": [
+
+  ]
+}

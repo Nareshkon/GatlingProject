@@ -1,0 +1,1 @@
+[{"operationName":"MiniBagUrlQuery","variables":{},"query":"query MiniBagUrlQuery {\n  viewBagButton {\n    bagUrl\n    __typename\n  }\n  miniBagIcon {\n    localStorageKey\n    __typename\n  }\n}\n"}]
